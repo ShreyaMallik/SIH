@@ -1,1 +1,1 @@
-# SIH
+# This project demonstrates the searching algorithm known as Jump search.The basic idea is to search fewer elements by skipping a block of elements.The block skipped is usually the square root of the length of the array.The time complexity of this searching algorithm is O(n^1/2) where n is the length of the array.
